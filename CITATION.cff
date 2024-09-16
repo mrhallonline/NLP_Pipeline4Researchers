@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: WhisperX+Diarization-for-Researchers
+title: NLP_Pipeline4Researchers
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -14,5 +14,5 @@ authors:
     email: cyborgresearcher@gmail.com
     orcid: 'https://orcid.org/0009-0009-1615-7524'
 repository-code: >-
-  https://github.com/mrhallonline/WhisperX-Diarization-for-Researchers
+  https://github.com/mrhallonline/NLP_Pipeline4Researchers
 
