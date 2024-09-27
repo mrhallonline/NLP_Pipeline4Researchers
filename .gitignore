@@ -4,7 +4,8 @@ data/
 BAK/
 output/
 .env
-
+EMPOWER_data/
+04_BertTopic_spaCy_EMPOWERInterviewsTestingPipeline_V2.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
