@@ -1,6 +1,6 @@
 # Data Files
 backup/
-data/
+data/data/
 BAK/
 output/
 .env
